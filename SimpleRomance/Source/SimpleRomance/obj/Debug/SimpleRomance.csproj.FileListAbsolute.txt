@@ -1,0 +1,6 @@
+E:\Steam\steamapps\common\RimWorld\Mods\SimpleRomance\Source\SimpleRomance\obj\Debug\SimpleRomance.csproj.AssemblyReference.cache
+E:\Steam\steamapps\common\RimWorld\Mods\SimpleRomance\Source\SimpleRomance\obj\Debug\SimpleRomance.csproj.CoreCompileInputs.cache
+E:\Steam\steamapps\common\RimWorld\Mods\SimpleRomance\Assemblies\SimpleRomance.dll
+E:\Steam\steamapps\common\RimWorld\Mods\SimpleRomance\Assemblies\SimpleRomance.pdb
+E:\Steam\steamapps\common\RimWorld\Mods\SimpleRomance\Source\SimpleRomance\obj\Debug\SimpleRomance.dll
+E:\Steam\steamapps\common\RimWorld\Mods\SimpleRomance\Source\SimpleRomance\obj\Debug\SimpleRomance.pdb

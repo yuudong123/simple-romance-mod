@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\SimpleRomance\\Source\\SimpleRomance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30966896-CA16-48BF-ABB8-B9EA0DBEFF60}|SimpleRomance.csproj|e:\\steam\\steamapps\\common\\rimworld\\mods\\simpleromance\\source\\simpleromance\\simpleromance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30966896-CA16-48BF-ABB8-B9EA0DBEFF60}|SimpleRomance.csproj|solutionrelative:simpleromance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SimpleRomance||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleRomance",
+              "DocumentMoniker": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\SimpleRomance\\Source\\SimpleRomance\\SimpleRomance.csproj",
+              "RelativeDocumentMoniker": "SimpleRomance.csproj",
+              "ToolTip": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\SimpleRomance\\Source\\SimpleRomance\\SimpleRomance.csproj",
+              "RelativeToolTip": "SimpleRomance.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-08T22:02:15.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleRomance.cs",
+              "DocumentMoniker": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\SimpleRomance\\Source\\SimpleRomance\\SimpleRomance.cs",
+              "RelativeDocumentMoniker": "SimpleRomance.cs",
+              "ToolTip": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\SimpleRomance\\Source\\SimpleRomance\\SimpleRomance.cs",
+              "RelativeToolTip": "SimpleRomance.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAIAwwEwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:00:45.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

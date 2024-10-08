@@ -1,0 +1,6 @@
+C:\Users\1mour\Desktop\Own mod\change romance start age 2024 10 08\childCanRomance\Assemblies\ChildCanRomance.dll
+C:\Users\1mour\Desktop\Own mod\change romance start age 2024 10 08\childCanRomance\Assemblies\ChildCanRomance.pdb
+C:\Users\1mour\Desktop\Own mod\change romance start age 2024 10 08\childCanRomance\Source\ChildCanRomance\obj\Debug\ChildCanRomance.csproj.AssemblyReference.cache
+C:\Users\1mour\Desktop\Own mod\change romance start age 2024 10 08\childCanRomance\Source\ChildCanRomance\obj\Debug\ChildCanRomance.csproj.CoreCompileInputs.cache
+C:\Users\1mour\Desktop\Own mod\change romance start age 2024 10 08\childCanRomance\Source\ChildCanRomance\obj\Debug\ChildCanRomance.dll
+C:\Users\1mour\Desktop\Own mod\change romance start age 2024 10 08\childCanRomance\Source\ChildCanRomance\obj\Debug\ChildCanRomance.pdb
