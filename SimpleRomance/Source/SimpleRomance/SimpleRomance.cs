@@ -65,7 +65,7 @@ namespace SimpleRomance
         static bool Prefix(ref float __result, Pawn initiator, Pawn recipient, float baseChance = 0.6f)
         {
             float b = initiator.GetStatValue(StatDefOf.PawnBeauty);
-            float beauty = b >= 0 ? b/2 + 1 : -1f/b;
+            float beauty = b >= 0 ? b/2 + 1 : -1f/((b/2)-1);
             float opinion = Mathf.InverseLerp(5f, 100f, recipient.relations.OpinionOf(initiator)) * 0.7f;
             HediffWithTarget hediffWithTarget = (HediffWithTarget)recipient.health.hediffSet.GetFirstHediffOfDef(HediffDefOf.PsychicLove);
             float magic = hediffWithTarget != null && hediffWithTarget.target == initiator ? 10f : 1f;
